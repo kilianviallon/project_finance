@@ -1,0 +1,6 @@
+.venv/        
+# le dossier venv, lourd et inutile sur GitHub
+.DS_Store     
+# fichier système Mac, ne concerne que toi
+__pycache__/  
+# fichiers générés automatiquement par Python
