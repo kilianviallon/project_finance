@@ -65,6 +65,10 @@ echo "text" > fichier.txt : crée un fichier avec du texte deja dedans
 mv ancien_nom.py nouveau_nom.py : change le nom du fichier
 mv fichier.py dossier/        # déplacer un fichier dans un dossier
 mv fichier.py dossier/nouveau_nom.py  # déplacer + renommer en même temps
+cd ..        # remonter d'un niveau
+cd ../..     # remonter de deux niveaux
+cd ~         # aller directement à la racine (home)
+cd -         # retourner au dossier précédent
 ```
 ## fonction pip:
 ```bash
