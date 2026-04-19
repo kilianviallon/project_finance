@@ -76,6 +76,11 @@ pip install  : télécharge et installe des librairies dans ton environnement ac
 pip freeze liste toutes les librairies installées dans ton environnement actif avec leurs versions exactes. permet a qlq qui clone ton repo d'utiliser le mm environnement
 
 ```
+## fichier jupyter:
+```bash
+création : Cmd + Shift + P → "Create: New Jupyter Notebook"
+
+```
 
 ## utilite et fonction liees au .venv / environnement prive comme anaconda:
 ```bash
